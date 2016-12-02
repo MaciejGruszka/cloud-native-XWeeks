@@ -30,12 +30,9 @@ This tutorial demonstrates how to:
 + Oracle Public Cloud Services account including:
 	+ Application Performance Monitoring Cloud Service
 	+ Application Container Cloud Service
-	+ [springboot-sample Tutorial](../springboot-sample/)
+	
 
 ### Steps ###
-
-#### Complete the springboot-sample tutorial ####
-Complete the [springboot-sample tutorial](../springboot-sample/) to set up a continuous delivery pipeline from source control to ACCS deployment for our sample application.
 
 #### Prepare Notes ####
 There will be a number of keys, urls, and URI strings that you will need to keep track of across the setup process. To keep this clear in your head, create a Snippet (in a separate browser window/tab) or a text file with the following template, which we will fill in as we go along.
