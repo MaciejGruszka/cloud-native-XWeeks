@@ -8,6 +8,11 @@ This is repository that contains labs 5 and 6 for Cloud Native XWeeks
 
 ----
 
+### Lab 1-4 ###
+Link here
+Link to PDFs
+Link to VM
+
 ### Lab 5 ###
 
 ####Enhance Cloud native projects with Oracle MySQL Cloud Service binding and Stack Manager####
