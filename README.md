@@ -1,6 +1,6 @@
 ![](common/images/customer.logo.png)
 ---
-# ORACLE Cloud-Native DevOps XWeeks - Lab 5-6 #
+# ORACLE Cloud-Native DevOps XWeeks 
 
 ## Introduction ##
 
